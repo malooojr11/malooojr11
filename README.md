@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱I am currently diving into the world of web and application development, with a focus on using Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .. mohtareg@gmail.com
+- 📫 How to reach me .. mohtarek@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am currently studying at a physical education college, however, I have a strong passion for coding.
 
